@@ -8,7 +8,6 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
-  //edit for the test
   <BrowserRouter>
     <GlobalContextProvider>
       <OnboardModal />
